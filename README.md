@@ -4,6 +4,8 @@ This project is an open-source implementation of a sample smart government syste
 
 The systems to be implemented in 13 separate projects: 
 
+
+
 - Health & Social Care
     * social order and harmony
     * family integration
@@ -38,6 +40,7 @@ The systems to be implemented in 13 separate projects:
 - Communication & Media
 
 - Inspection & Audit
+
 
 
 Feel free to point out any faults in the system as it will help to improve it. 

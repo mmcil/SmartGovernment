@@ -34,7 +34,7 @@ Feel free to point out any faults in the system as it will help to improve it.
 
 ## Supporting
 You can support this free and open source software by:
-- Starring our GitHub repository,
+- Starring this GitHub repository,
 - Creating pull requests, submitting bugs, suggesting new features or documentation updates.
 
 ## License

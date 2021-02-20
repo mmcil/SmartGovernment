@@ -1,5 +1,7 @@
 # SmartGovernment
 
+## About
+
 This project is an open-source implementation of a sample smart government system. 
 
 The systems to be implemented in 13 separate projects: 

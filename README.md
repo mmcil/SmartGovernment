@@ -39,5 +39,7 @@ You can support this free and open source software by:
 
 ## License
 Copyright (c) 2021 MMC. 
+
 All source code and related files including documentation and wiki pages are licensed under [MIT](https://opensource.org/licenses/MIT).
+
 See [LICENSE](https://github.com/mmcil/SmartGovernment/blob/main/LICENSE) for more details.

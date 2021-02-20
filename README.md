@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/mmcil/SmartGovernment">
-     <img src="/logo/logo.jpg" width="75" title="SmartGovernment">
+     <img src="/logo/logo.jpg" width="500" title="SmartGovernment">
    </a>
 </p>
 

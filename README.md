@@ -1,6 +1,6 @@
-<p align="center">
-# SmartGovernment
-</p>
+<h1 align="center">
+Smart Government
+</h1>
 
 <p align="center">
   <a href="https://github.com/mmcil/SmartGovernment">

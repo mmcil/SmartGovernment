@@ -12,7 +12,7 @@ The systems to be implemented in 13 separate projects:
     * result options weighted by the edu. lvl
     * direct input from the citizens
 - Health & Social Care
-    * social order and harmony
+    * social harmony and order
     * family integration
 - Education
 - Technology & Research & Development
@@ -30,8 +30,11 @@ The systems to be implemented in 13 separate projects:
 - Communication & Media
 - Inspection & Audit
 
+## Development
+This project which will be written in Javascript. 
+
 ## Contributing
-Feel free to point out any faults in the system as it will help to improve it. 
+Feel free to point out any faults in the any of the systems as it will help to improve them. 
 
 ## Supporting
 You can support this free and open source software by:

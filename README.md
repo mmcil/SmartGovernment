@@ -1,5 +1,11 @@
 # SmartGovernment
 
+<p align="center">
+  <a href="https://github.com/mmcil/SmartGovernment">
+     <img src="/logo.png" width="75" title="SmartGovernment">
+   </a>
+</p>
+
 ## About
 
 This project is an open-source implementation of a sample smart government system. 

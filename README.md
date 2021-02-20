@@ -6,6 +6,11 @@ This project is an open-source implementation of a sample smart government syste
 
 The systems to be implemented in 13 separate projects: 
 
+- Legislature & Decision Making
+    * transparent electoral system (using blockchain)
+    * used for every decision
+    * result options weighted by the edu. lvl
+    * direct input from the citizens
 - Health & Social Care
     * social order and harmony
     * family integration
@@ -15,10 +20,6 @@ The systems to be implemented in 13 separate projects:
 - Industry & Energy & Production
 - Agriculture & Food
 - Law & Justice
-- Legislature & Decision Making
-    * transparent electoral system (using blockchain)
-    * used for every decision
-    * result options weighted by the edu. lvl
 - Economy
     * labor
     * trading

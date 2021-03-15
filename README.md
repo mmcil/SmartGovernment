@@ -39,7 +39,7 @@ The systems to be implemented in 13 separate projects:
 - Inspection & Audit
 
 ## Development
-This project which will be written in Javascript. 
+This project will be written in Javascript. 
 
 ## Contributing
 Feel free to point out any faults in the any of the systems as it will help to improve them. 

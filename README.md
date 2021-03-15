@@ -42,7 +42,7 @@ The systems to be implemented in 13 separate projects:
 This project will be written in Javascript. 
 
 ## Contributing
-Feel free to point out any faults in the any of the systems as it will help to improve them. 
+Feel free to point out any faults in any of the systems as it will help to improve them. 
 
 ## Supporting
 You can support this free and open source software by:
